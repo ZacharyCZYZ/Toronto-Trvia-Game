@@ -1,0 +1,22 @@
+[
+  {
+    "question": "How many runways does Toronto have?",
+    "answer": "5"
+  },
+  {
+    "question": "What is the initial altitude on departure for jets?",
+    "answer": "5000"
+  },
+  {
+    "question": "What is the initial altitude on departure for props?",
+    "answer": "3000"
+  },
+  {
+    "question": "What is the circuit altitude?",
+    "answer": "1500"
+  },
+  {
+    "question": "Do you turn on course on departure? (y/n)",
+    "answer": "n"
+  }
+]
